@@ -22,7 +22,7 @@
         "time-grunt": "^1.4.0",
         "uglifyify": "^5.0.0",
         "diff": "^3.5.0",
-        "set-value": "^2.0.1"
+        "set-value": "^4.0.1"
     },
     "dependencies": {
         "@netgen/admin-ui": "^1.0.8"
